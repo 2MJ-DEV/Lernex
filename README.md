@@ -1,7 +1,7 @@
 # Lernex
 [Lernex](https://lernex.app/) is an interactive open-source platform that guides developers through the key features of Next.js. Each module combines explanations, code examples, practical challenges, and mini-projects to help learners master Next.js step by step — from server-side rendering to performance optimization.
 
-_> Our community is present on the [Discord server Lernex](https://discord.gg/PwZbR7zG)._
+_Our community is present on the [Discord server Lernex](https://discord.gg/PwZbR7zG)._
 
 ## Contributing
 The Lernex project thrives on the power of open-source collaboration.  
