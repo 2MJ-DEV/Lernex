@@ -1,7 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to **Lernex**!  
-This project grows and thrives through open-source collaboration, and we’re excited to have you join our journey 🚀
+Thank you for your interest in contributing to **Lernex**! This project grows and thrives through open-source collaboration, and we’re excited to have you join our journey 🚀
 
 ##  Before You Start
 
@@ -31,9 +30,9 @@ This repository is structured as follows:
 
 1. **Fork** the repository  
 2. **Clone** your fork  
-   ```bash
-   git clone https://github.com/2MJ-DEV/Lernex.git
-   ```
+```bash
+git clone https://github.com/2MJ-DEV/Lernex.git
+```
 3. **Create a branch** for your feature or fix
 ```bash
 git checkout -b feature/my-new-feature
@@ -59,7 +58,6 @@ the commit conventions used in this repository.
 When you create a commit we kindly ask you to follow the convention
 `category(scope or module): message` in your commit message while using one of
 the following categories:
-
 - `feat / feature`: all changes that introduce completely new code or new
   features
 - `fix`: changes that fix a bug (ideally you will additionally reference an
